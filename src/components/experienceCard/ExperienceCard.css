@@ -105,11 +105,13 @@
   height: 100%;
 }
 .logo-bg {
-  border-radius: 50%;
+  border-radius: 40%;
+  padding: 13px;
 }
 .company-logo {
-  max-width: 150px;
+width:125px;
   z-index: 1;
+  border-radius: 30%;
   pointer-events: none;
 }
 @media screen and (max-width: 599px) {

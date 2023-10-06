@@ -14,26 +14,18 @@ const Contact = () => {
       <Bounce cascade>
         <div className="links">
           <a
-            href="https://github.com/jigalin"
+            href="https://github.com/llursmanashvili"
             target="_blank"
             rel="noopener noreferrer"
           >
             <img src={github} alt="Github Logo" width="40px" />
           </a>
           <a
-            href="https://www.linkedin.com/in/mjigalin/"
+            href="https://www.linkedin.com/in/luka-lursmanashvili/"
             target="_blank"
             rel="noopener noreferrer"
           >
             <img src={linkedin} alt="Linkedin Logo" width="40px" />
-          </a>
-
-          <a
-            href="https://www.facebook.com/matthew.jigalin/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img src={facebook} alt="Facebook Logo" width="40px" />
           </a>
         </div>
       </Bounce>

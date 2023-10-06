@@ -26,9 +26,9 @@ const Experience = () => {
             }}
           >
             <p style={{ textAlign: 'center' }}>
-              Further in-depth experience pre 2020 can be found on my{' '}
+              Other little projects can be found on my{' '}
               <a
-                href="https://www.linkedin.com/in/mjigalin/"
+                href="https://www.github.com/llursmanashvili/"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
@@ -37,7 +37,7 @@ const Experience = () => {
                   cursor: 'pointer',
                 }}
               >
-                LinkedIn
+                Github
               </a>
               .
             </p>

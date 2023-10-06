@@ -36,6 +36,7 @@ const ExperienceCard = ({ experience }) => {
                 style={
                   experience.logoheight
                     ? {
+                        borderRadius: '50px',
                         height: `${experience.logoheight}%`,
                       }
                     : { width: `${experience.logowidth}%` }

@@ -26,7 +26,7 @@ const Home = () => {
               onLoad={() => setImageLoaded(true)}
             />
             <h1 className="greeting-text">
-              Hi, I'm <span className="name">Matthew Jigalin</span>.{' '}
+              Hi, I'm <span className="name">Luka Lursmanashvili</span>.{' '}
               <span className="wave-emoji" role="img" aria-label="waving hand">
                 👋
               </span>
@@ -35,10 +35,9 @@ const Home = () => {
               <Typewriter
                 options={{
                   strings: [
-                    'I like to design things.',
-                    'I love learning new tech.',
-                    'I love meeting new people.',
-                    'I create unique digital experiences.',
+                    "I'm obsessed with coding.",
+                    'I love learning new techniques.',
+                    'I appreciate intersting comunications',
                   ],
                   autoStart: true,
                   loop: true,
@@ -51,7 +50,7 @@ const Home = () => {
             <Bounce cascade>
               <div className="links">
                 <a
-                  href="https://www.linkedin.com/in/mjigalin/"
+                  href="https://www.linkedin.com/in/luka-lursmanashvili/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
