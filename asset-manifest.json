@@ -1,29 +1,31 @@
 {
   "files": {
-    "main.css": "/portfolioo/static/css/main.1a11d210.chunk.css",
-    "main.js": "/portfolioo/static/js/main.b45b75da.chunk.js",
-    "main.js.map": "/portfolioo/static/js/main.b45b75da.chunk.js.map",
+    "main.css": "/portfolioo/static/css/main.c9a986ad.chunk.css",
+    "main.js": "/portfolioo/static/js/main.932f4491.chunk.js",
+    "main.js.map": "/portfolioo/static/js/main.932f4491.chunk.js.map",
     "runtime-main.js": "/portfolioo/static/js/runtime-main.6d0aa155.js",
     "runtime-main.js.map": "/portfolioo/static/js/runtime-main.6d0aa155.js.map",
-    "static/js/2.8f7c2c30.chunk.js": "/portfolioo/static/js/2.8f7c2c30.chunk.js",
-    "static/js/2.8f7c2c30.chunk.js.map": "/portfolioo/static/js/2.8f7c2c30.chunk.js.map",
+    "static/js/2.71eb7530.chunk.js": "/portfolioo/static/js/2.71eb7530.chunk.js",
+    "static/js/2.71eb7530.chunk.js.map": "/portfolioo/static/js/2.71eb7530.chunk.js.map",
     "index.html": "/portfolioo/index.html",
-    "precache-manifest.ccf56992257778b5ec6cda83d65ba788.js": "/portfolioo/precache-manifest.ccf56992257778b5ec6cda83d65ba788.js",
+    "precache-manifest.6114c4f136e3bfb45fd88b153cdac773.js": "/portfolioo/precache-manifest.6114c4f136e3bfb45fd88b153cdac773.js",
     "service-worker.js": "/portfolioo/service-worker.js",
-    "static/css/main.1a11d210.chunk.css.map": "/portfolioo/static/css/main.1a11d210.chunk.css.map",
-    "static/js/2.8f7c2c30.chunk.js.LICENSE.txt": "/portfolioo/static/js/2.8f7c2c30.chunk.js.LICENSE.txt",
+    "static/css/main.c9a986ad.chunk.css.map": "/portfolioo/static/css/main.c9a986ad.chunk.css.map",
+    "static/js/2.71eb7530.chunk.js.LICENSE.txt": "/portfolioo/static/js/2.71eb7530.chunk.js.LICENSE.txt",
     "static/media/8secondz.png": "/portfolioo/static/media/8secondz.9388d614.png",
     "static/media/bartini.png": "/portfolioo/static/media/bartini.c7b2dbe0.png",
+    "static/media/bgshop.png": "/portfolioo/static/media/bgshop.2a217e57.png",
     "static/media/cabbagetreelandscape.png": "/portfolioo/static/media/cabbagetreelandscape.7feddacb.png",
     "static/media/cactus.png": "/portfolioo/static/media/cactus.ad8ee816.png",
     "static/media/cactuscan.png": "/portfolioo/static/media/cactuscan.9ef3cb72.png",
-    "static/media/matt.png": "/portfolioo/static/media/matt.ee0fdcd3.png",
+    "static/media/georgiagold.png": "/portfolioo/static/media/georgiagold.7801fc04.png",
+    "static/media/matt.png": "/portfolioo/static/media/matt.aa9b7d7c.png",
     "static/media/psykinetic.png": "/portfolioo/static/media/psykinetic.9c1952ca.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6d0aa155.js",
-    "static/js/2.8f7c2c30.chunk.js",
-    "static/css/main.1a11d210.chunk.css",
-    "static/js/main.b45b75da.chunk.js"
+    "static/js/2.71eb7530.chunk.js",
+    "static/css/main.c9a986ad.chunk.css",
+    "static/js/main.932f4491.chunk.js"
   ]
 }
