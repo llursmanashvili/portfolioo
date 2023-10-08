@@ -111,7 +111,7 @@
 .company-logo {
 width:125px;
   z-index: 1;
-  border-radius: 30%;
+  border-radius: 30px;
   pointer-events: none;
 }
 @media screen and (max-width: 599px) {

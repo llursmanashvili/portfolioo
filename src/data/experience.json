@@ -11,9 +11,9 @@
         "site includes full information about hotel and its services."
       ],
       "stack": ["ReactJs", "HTML","CSS","BootStrap"],
-      "logoheight": 50,
-      "colourPrimary": "linear-gradient(90deg, rgba(158,122,10,1) 0%, rgba(177,97,46,1) 47%, rgba(124,84,0,1) 100%)",
-      "colourSecondary": "rgb(158,122,10)"
+      "logoheight": 80,
+      "colourPrimary": "rgba(211,152,35,255)",
+      "colourSecondary": "rgba(211,152,35,255)"
     },
     {
       "id": 1,
@@ -27,8 +27,23 @@
       ],
       "stack": ["ReactJs", "HTML","CSS","BootStrap"],
       "logowidth": 80,
-      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
-      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+      "colourPrimary": "rgba(43,69,153,255)",
+      "colourSecondary": "rgba(43,69,153,255)"
+    },
+    {
+      "id": 1,
+      "link": "https://www.linkedin.com/company/evex-clinics/mycompany/",
+      "company": "Evex",
+      "title": "IT Support",
+      "dateFrom": "July 2023",
+      "dateTo": "current",
+      "info": [
+        "I have been working at Evex as IT Support intern since July 24.Here I learnt as much as I could and gained appropriate experience."
+      ],
+      "stack": ["Hardware","Software","Operating Systems"],
+      "logowidth": 80,
+      "colourPrimary": "rgba(12,120,109,255)",
+      "colourSecondary": "rgba(12,120,109,255)"
     }
 
   ]
